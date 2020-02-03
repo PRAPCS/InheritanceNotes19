@@ -10,6 +10,12 @@ class Main {
     System.out.println(d);
     System.out.println(d.getName());
 
+    snake s = new snake("Ka",20);
+    System.out.println(s.getName());
+    System.out.println(s);
+
+    puppy pu = new puppy("Airbud", 4, 5 );
+
    
 
 
