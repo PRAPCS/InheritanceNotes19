@@ -15,6 +15,8 @@ class Main {
     System.out.println(s);
 
     puppy pu = new puppy("Airbud", 4, 5 );
+    System.out.println(pu);
+    System.out.println(pu.getName());
 
    
 

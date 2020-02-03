@@ -11,7 +11,7 @@ public class puppy extends dog{
     return age;
   }
   
-  public toString(){
+  public String toString(){
     return super.toString()+"its age is: "+age;
   }
 }
